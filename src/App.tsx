@@ -46,7 +46,7 @@ function App() {
                 className="w-32 h-32 rounded-full mx-auto mb-4"
               />
               {/* Profile Name */}
-              <h1 className="text-4xl font-bold text-gray-900 mb-4"> Hello </h1>
+              <h1 className="text-4xl font-bold text-gray-900 mb-4"> Sowndarya Lakshmi V </h1>
               
               <div className="flex justify-center space-x-4 mb-6">
                 <a
